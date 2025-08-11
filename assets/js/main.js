@@ -8,10 +8,6 @@ function duplicateMarqueeItems(marqueeId) {
 }
 duplicateMarqueeItems('marquee');
 
-// Note: The grid creation script is removed as the .grid-cols-12 container is not found in the HTML.
-
-
-
 // Function to duplicate carousel items for seamless loop
 function duplicateCarouselItems(carouselId) {
     const carousel = document.getElementById(carouselId);

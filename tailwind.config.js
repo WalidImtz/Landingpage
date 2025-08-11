@@ -11,7 +11,7 @@ module.exports = {
                 highlight: '#FFD180',
             },
             fontFamily: {
-                roboto: ['Roboto', 'sans-serif'], // Tambahkan font kustom
+                roboto: ['Roboto', 'sans-serif'],
                 inter: ['Inter'],
                 cinzel: ['Cinzel'],
             },
